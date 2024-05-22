@@ -1,2 +1,2 @@
--Практика по парсерам
--Бибилиотеки BeautifulSoup/LxmlSoup
+- Практика по парсерам
+- Бибилиотеки BeautifulSoup/LxmlSoup
